@@ -37,6 +37,8 @@
             this.Altura = new System.Windows.Forms.RadioButton();
             this.alturaBox = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.connect_btn = new System.Windows.Forms.Button();
+            this.disconnect_btn = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -142,11 +144,33 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "altura";
             // 
+            // connect_btn
+            // 
+            this.connect_btn.Location = new System.Drawing.Point(256, 94);
+            this.connect_btn.Name = "connect_btn";
+            this.connect_btn.Size = new System.Drawing.Size(195, 76);
+            this.connect_btn.TabIndex = 11;
+            this.connect_btn.Text = "connect";
+            this.connect_btn.UseVisualStyleBackColor = true;
+            this.connect_btn.Click += new System.EventHandler(this.connect_btn_Click);
+            // 
+            // disconnect_btn
+            // 
+            this.disconnect_btn.Location = new System.Drawing.Point(283, 833);
+            this.disconnect_btn.Name = "disconnect_btn";
+            this.disconnect_btn.Size = new System.Drawing.Size(168, 72);
+            this.disconnect_btn.TabIndex = 12;
+            this.disconnect_btn.Text = "disconnect";
+            this.disconnect_btn.UseVisualStyleBackColor = true;
+            this.disconnect_btn.Click += new System.EventHandler(this.disconnect_btn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1482, 1081);
+            this.Controls.Add(this.disconnect_btn);
+            this.Controls.Add(this.connect_btn);
             this.Controls.Add(this.alturaBox);
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
@@ -171,6 +195,8 @@
         private System.Windows.Forms.RadioButton Altura;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox alturaBox;
+        private System.Windows.Forms.Button connect_btn;
+        private System.Windows.Forms.Button disconnect_btn;
     }
 }
 
