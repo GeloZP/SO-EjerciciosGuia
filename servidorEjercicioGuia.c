@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
 		// Escribimos la peticion en la consola
 		printf ("Peticion: %s\n",peticion);
 		
-		// Vemos que se quiere hacer con la petici?n
+		// Vemos que se quiere hacer con la petici￳n
 		char *p = strtok(peticion, "/");
 		int codigo =  atoi (p);
 		p = strtok( NULL, "/");
@@ -67,12 +67,21 @@ int main(int argc, char *argv[])
 		
 		if (codigo ==1) //piden la longitd del nombre
 			sprintf (respuesta,"%d",strlen (nombre));
-		else
+		else if (codigo == 2)
 			// quieren saber si el nombre es bonito
 			if((nombre[0]=='M') || (nombre[0]=='S'))
 				strcpy (respuesta,"SI");
 			else
 				strcpy (respuesta,"NO");
+		else if (codigo == 3)
+		{
+			p = strtok( NULL, "/");
+			float altura =  atof (p);
+			if (altura > 1.70)
+				sprintf (respuesta, "%s: eres alto",nombre);
+			else
+				sprintf (respuesta, "%s: eres bajo",nombre);
+		}
 		
 		printf("Respuesta: %s\n",respuesta);
 		// Enviamos la respuesta

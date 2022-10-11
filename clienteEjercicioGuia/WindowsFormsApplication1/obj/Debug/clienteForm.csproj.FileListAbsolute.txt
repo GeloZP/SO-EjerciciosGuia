@@ -116,3 +116,14 @@ C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\Ejer
 C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia\EjercicioGuiaSistemasOperativos\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
 C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia\EjercicioGuiaSistemasOperativos\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia\EjercicioGuiaSistemasOperativos\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.AssemblyReference.cache
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Gerard\OneDrive - Universitat Politècnica de Catalunya\Desktop\SO\EjercicioGuia Gerard\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
